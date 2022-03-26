@@ -26,7 +26,7 @@
          "description": "İtirafları onaylamak için bir ekip oluşturun. oluşturduğunuz botu o gruba (id) ve yöneticiye atın ve buraya yazın",
          "value": ""
       },      
-      "ETIRAF_QRUP": {
+      "İTIRAF_QRUP": {
          "description": "Onayınızı paylaşmak için kanal/grup id yazın",
          "value": ""
       },
@@ -46,15 +46,15 @@
          "description": "Önyükleme başladığında ileti mesajı (start)",
          "value": "**Selam hoşgeldin** __Kimselere söyleyemediğin İtirafları bana ilet yayınlayım__ 🤭"
       },
-      "qrupstart": {
+      "grupstart": {
          "description": "Bir gruba katılmışsa, gruptaki bot iletisi başlatıldıysa",
          "value": "✅ **Ben Aktifim!** 💌 **İtiraflarını yazmak için botun başlat kısmına bas.**"
       },
-      "etirafmsg": {
+      "itirafmsg": {
          "description": "Bot kabul edildiğinde sorduğu soru",
          "value": "**İtiraflarını nasıl paylaşayım?** 🤔"
       }, 
-      "etirafyaz": {
+      "itirafyaz": {
          "description": "İtiraf etmek isteyen kullanıcıya mesaj",
          "value": "**Merhaba bir itiraf yaz. Daha sonra ben onun açık ve ya anonim olacağını ileteceğim Adminlerime yayınlanması için** 😍"
       },
