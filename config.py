@@ -14,10 +14,10 @@ admin_qrup = int(os.environ.get("ADMIN_QRUP"))
 etiraf_qrup = int(os.environ.get("ETIRAF_QRUP"))
 log_qrup = int(os.environ.get("LOG_QRUP"))
 botad = os.environ.get("BOT_AD")
-etirafmsg = os.environ.get("etirafmsg")
+itirafmsg = os.environ.get("itirafmsg")
 startmesaj = os.environ.get("startmesaj")
-etirafyaz = os.environ.get("etirafyaz")
-qrupstart = os.environ.get("qrupstart")
+itirafyaz = os.environ.get("itirafyaz")
+grupstart = os.environ.get("qrupstart")
 gonderildi = os.environ.get("gonderildi")
 
 # Sohbetdestek
