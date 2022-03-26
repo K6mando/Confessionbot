@@ -8,7 +8,7 @@
          "Mehmetbaba",
          "Sohbetdestek"
       ],   
-   "repository": "https://github.com/K6mando/Confessionbot",
+   "repository": "https://github.com/k6mando/Confessionbot",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini buraya yazın",
@@ -46,7 +46,7 @@
          "description": "Önyükleme başladığında ileti mesajı (start)",
          "value": "**Selam hoşgeldin** __Kimselere söyleyemediğin İtirafları bana ilet yayınlayım__ 🤭"
       },
-      "grupstart": {
+      "qrupstart": {
          "description": "Bir gruba katılmışsa, gruptaki bot iletisi başlatıldıysa",
          "value": "✅ **Ben Aktifim!** 💌 **İtiraflarını yazmak için botun başlat kısmına bas.**"
       },
